@@ -1,0 +1,3 @@
+# Subir byte a byte: el .ps1 necesita su BOM UTF-8 y CRLF para Windows PowerShell 5.1.
+*.ps1 -text
+*.cmd -text
